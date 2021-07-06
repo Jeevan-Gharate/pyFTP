@@ -32,3 +32,26 @@ do run the command in CMD or POWERSHELL after installing python3-pip `pip instal
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Jeevan-Gharate/pyFTP)
 
+# ⁜ Report Issues ~ 
+
+If found Bugs in program do report on - 
+
+`https://github.com/Jeevan-Gharate/pyFTP/issues`
+
+If no one replies within 24 Hours contact me Directly - 
+
+`https://discordapp.com/users/Jeevan#2343`
+`https://www.instagram.com/mechx_gamerz_yt/`
+
+here:
+
+[<img align="left" alt="mechx | Medium" width="85px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]🙌😇
+
+[<img align="left" alt="mechx | Medium" width="85px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][Discord]🙌😇
+
+# 
+
+# Made With ❤ by Jeevan Gharate 😇👑💻
+ 
+ [discord]: https://discordapp.com/users/Jeevan#2343
+ [instagram]: https://www.instagram.com/mechx_gamerz_yt/
