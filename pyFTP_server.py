@@ -5,7 +5,6 @@ import sys, os
 from time import sleep
 clear = lambda: os.system('cls')
 
-#filepath.split("\\")[-1]
 
 while True:
     s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
