@@ -55,4 +55,4 @@ while True:
             print("Password was wrong! kicking client. Shutting Down Connection.")
             sock.close()
 
-    auth("chicken")
+    auth("chicken") #change password to your choice
