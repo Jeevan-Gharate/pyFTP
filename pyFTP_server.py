@@ -7,7 +7,7 @@ clear = lambda: os.system('cls')
 
 while True:
     s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    HOST = "127.0.0.1"
+    HOST = "127.0.0.1" #change the IP to which u want to BIND server on
     PORT = 21
     s.bind((HOST, PORT))
     try:
