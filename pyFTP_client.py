@@ -5,7 +5,7 @@ import tqdm
 
 #filepath.split("\\")[-1]
 
-HOST = "127.0.0.1"
+HOST = "127.0.0.1" #change IP to your server's
 PORT = 21
 
 filename = input("Enter the full path file and name to be send: ")
