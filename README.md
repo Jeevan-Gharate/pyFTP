@@ -4,7 +4,7 @@
 
 # ⁜ Description ~
 
-<b>A Python program for Uploading file to server using pyFTP_client.py. and downloading the file from server from browser (all steps mentioned in steps below). A Simple yet affordable custom home Server just like the File Transfer Protocol AKA FTP</b>
+<b>A Python program for Uploading file to server using pyFTP_client.py. and downloading the file from server from browser (all steps mentioned in SETUP below). A Simple yet affordable custom home Server just like the File Transfer Protocol AKA FTP</b>
 
 
 # ⁜ Prerequisite
