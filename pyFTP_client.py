@@ -5,7 +5,6 @@ import os, sys
 from time import sleep
 import tqdm
 
-#filepath.split("\\")[-1]
 
 HOST = "127.0.0.1" #change IP to your server's
 PORT = 21
